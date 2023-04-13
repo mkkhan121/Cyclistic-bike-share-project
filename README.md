@@ -1,1 +1,2 @@
 # Cyclistic-bike-share-project
+Cyclistic, is a fictional bike share company based in chicago, this project is completed as part of the Google Data analytics certificate capstone project in R programming or R-studio where the motive was to analyse the past 12 months data from Jan-Dec 2022 in order to spot trends and patterns to differentiate annual member riders against casual riders. The visualization part was solely done in Tableau public with key points and recommendations communicated with the marketing director.
